@@ -1,7 +1,7 @@
 package com.noc.algs;
 
 
-//TODO: Yet to implement
+//finding possible ways to keep N queens in NxN chessboard
 public class QueensChessProblem {
 	
 	private static int N = 4;
